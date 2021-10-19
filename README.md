@@ -1,2 +1,3 @@
 # simple_calculator
-basic calculator app
+basic flutter calculator application
+/find in master branch
